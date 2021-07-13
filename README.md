@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![iz9 GitHub stats](https://github-readme-stats.vercel.app/api?username=iz9)](https://github.com/iz9/github-readme-stats)
+[![iz9 GitHub stats](https://github-readme-stats.vercel.app/api?username=iz9&count_private=true)](https://github.com/iz9/github-readme-stats)
+
+[![iz9 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iz9)](https://github.com/iz9/github-readme-stats)
+
