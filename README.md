@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About
 Aloha. My name is Roman. I am a  front-end developer with 8+ years of experience.
-In particular, 4+ years of development in the react ecosystem.
+In particular, 6+ years of development in the react ecosystem.
 Detail-oriented and self-driven.  Able to self-manage effectively during independent projects, as well as collaborate as part of a productive team.
 I have a keen interest in modern frontend technologies, significant experience in developing complex web applications on react.js, and persistence in problem-solving.
 As a specialist, I aim to develop engineering skills, study architecture, code quality, and complex systems.
@@ -38,20 +38,17 @@ The vector of personal development is aimed at time management and efficiency in
 
 ## Skills
 ### Programming Languages:  
-- JavaScript(ES5+)
+- JavaScript
 - TypeScript
 - HTML
 - CSS (SCSS)
 - Bash
 - Python
-- Markdown
-- YAML
-- Handlebars
+
 
 ### Frontend stack:
 - React.js, react-router, react-intl, react-query
-- Redux, redux-toolkit, redux-saga,  reselect
-- RxJS,  Format.js
+- Redux, rtk, redux-saga,  reselect, Mobx
 - Next.js
 - jwt,  axios,
 - styled-components, styled-system, css frameworks (MaterialUI, Bootstrap, TailwindCSS)
@@ -65,10 +62,9 @@ The vector of personal development is aimed at time management and efficiency in
 
 ### Tools:  
 - npm, git
-- webpack, parcel, babel
+- webpack, parcel, babel, vite
 - jest, react-testing-library, storybook
-- eslint, stylelint, prettier, husky, comitlint, semantic-release
-- typedoc
+- eslint, stylelint, prettier, husky,
 - plop, yeoman
 
 ### Also experienced with: 
@@ -87,6 +83,9 @@ The vector of personal development is aimed at time management and efficiency in
 - Ukrainian (native)
 
 ## Experience
+
+### YourCoach
+
 
 ### SportStock Exchange LLC / Senior Frontend Developer
 > May 2018 - Dec 2020,  Kharkiv, Ukraine 
