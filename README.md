@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About
-Aloha. My name is Roman, I am 31 y.o. I am a  front-end developer with 6+ years of experience.
+Aloha. My name is Roman. I am a  front-end developer with 8+ years of experience.
 In particular, 4+ years of development in the react ecosystem.
 Detail-oriented and self-driven.  Able to self-manage effectively during independent projects, as well as collaborate as part of a productive team.
 I have a keen interest in modern frontend technologies, significant experience in developing complex web applications on react.js, and persistence in problem-solving.
